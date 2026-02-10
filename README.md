@@ -113,4 +113,4 @@ Project source code is currently private because over time I have seen a sad abu
 ### Donations
 Consider [donating](https://goldhen.github.io/support) if you like GoldHEN and want to support my work
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/SiSTRo)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/SiSTRo)
